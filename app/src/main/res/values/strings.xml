@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marvel Demo App</string>
+    <string name="item_menu_text_comics">Comics</string>
+    <string name="item_menu_text_wishlist">Wishlist</string>
+    <string name="star">star</string>
+    <string name="picture">picture</string>
+    <string name="label_search">Search</string>
+</resources>
